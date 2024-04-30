@@ -3,7 +3,7 @@ Learning and solving dsa in java
 Day 1 - 30th April 2024:
 -Binary Search
 
-q1: Ceiling of a number in sorted arrays
+q1: Ceiling of a number in sorted arrays\n
 link: https://leetcode.com/problems/search-insert-position/description/
 
 q2: Floor of a number in sorted array
