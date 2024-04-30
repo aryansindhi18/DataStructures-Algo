@@ -15,4 +15,4 @@ q4: Find First and Last Position of Element in Sorted Array
 link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
 q5: Find position of an element in a sorted array of infinite numbers  
-link: Find position of an element in a sorted array of infinite numbers
+link: https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
