@@ -16,3 +16,6 @@ link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-s
 
 q5: Find position of an element in a sorted array of infinite numbers  
 link: https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
+
+q6: Peak Index in a Mountain Array  
+link: https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
