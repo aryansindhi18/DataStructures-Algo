@@ -1,6 +1,6 @@
 # DataStructures-Algo
 Learning and solving dsa in java
-Day 1 - 30th April 2024:
+Day 1 - 30th April 2024:  
 -Binary Search
 
 q1: Ceiling of a number in sorted arrays  
