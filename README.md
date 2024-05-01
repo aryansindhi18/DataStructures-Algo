@@ -19,3 +19,12 @@ link: https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-
 
 q6: Peak Index in a Mountain Array  
 link: https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+
+Day 2 - 1st May 2024:
+-Binary Search contd...
+
+q7: Search Element in Mountain Array  
+link: https://leetcode.com/problems/find-in-mountain-array/description/
+
+q8: Search in Rotated Sorted Array  
+link: https://leetcode.com/problems/search-in-rotated-sorted-array/description/
