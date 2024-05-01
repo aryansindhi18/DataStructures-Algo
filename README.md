@@ -28,3 +28,10 @@ link: https://leetcode.com/problems/find-in-mountain-array/description/
 
 q8: Search in Rotated Sorted Array  
 link: https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+
+q9: Search in Rotated Sorted Array with duplicate elements
+
+q10: Rotation Count of a sorted rotated array
+
+q11: Split Array Largest Sum  
+link: https://leetcode.com/problems/split-array-largest-sum/description/
