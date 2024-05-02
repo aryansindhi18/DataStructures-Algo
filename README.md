@@ -36,3 +36,7 @@ q10: Rotation Count of a sorted rotated array
 
 q11: Split Array Largest Sum  
 link: https://leetcode.com/problems/split-array-largest-sum/description/
+  
+==============================================================================  
+Day 2 - 1st May 2024:
+- Did Not do DSA, worked on aryansindhi18.co.in / aryansindhi18.vercel.app
